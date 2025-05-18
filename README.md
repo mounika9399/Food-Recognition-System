@@ -1,15 +1,6 @@
 # Food-Image-Recognition
-
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Stargazers](https://img.shields.io/github/stars/MaharshSuryawala/Food-Image-Recognition?style=flat-square)]()
-[![Followers](https://img.shields.io/github/followers/MaharshSuryawala?style=flat-square)](https://github.com/MaharshSuryawala)
-[![MIT License][license-shield]][license-url]
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/MaharshSuryawala/Food-Image-Recognition)
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-
 - [Food-Image-Recognition](#food-image-recognition)
   - [Table of Contents](#table-of-contents)
   - [About the Project](#about-the-project)
@@ -23,20 +14,12 @@
     - [Testing on random images.](#testing-on-random-images)
     - [Visualization of different layers.](#visualization-of-different-layers)
     - [Heat-Map & Class-Activation-Map](#heat-map--class-activation-map)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
   - [References](#references)
-  - [Acknowledgements](#acknowledgements)
 
 ## About the Project
-
 ![Food](.images/food.jpg)
 
-<span>Photo by <a href="https://unsplash.com/@jaywennington?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jay Wennington</a> on <a href="https://unsplash.com/s/photos/food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
 ### Overview
-
 * Each year, approximately 6,78,000 deaths are caused in the United States of America due to unhealthy diet. 
 * A typical American diet is too high in calories, fat, sugars, sodium, etc. 
 * Hence, people have became more proactive when it comes to health matters. 
@@ -49,7 +32,6 @@
 * It almost took 10-11 hours to train the model on Google Colab.    
 
 ### Built With
-
 * [Python](https://www.python.org/)
 * [Jupyter Notebook](https://jupyter.org/)
 * [Google Colab](https://colab.research.google.com/)
@@ -63,32 +45,18 @@ Nutrition Information Source: [Food Data Central API](https://fdc.nal.usda.gov/a
   * U.S. Department of Agriculture, Agricultural Research Service. FoodData Central, 2019. fdc.nal.usda.gov. 
 
 ## Results
-
 ### Demo
-
 ![demo](.images/demo/food_image_recognition.gif)
-
 ### Accuracy
-
 ![Accuracy](.images/accuracy.png)
-
 ### Loss
-
 ![Loss](.images/loss.png)
-
 ### Testing on random images.
-
 ![Test](.images/test.png)
-
 ### Visualization of different layers.
-
 ![Layers](.images/layers.png)
-
 ### Heat-Map & Class-Activation-Map 
-
 ![Heatmap](.images/heatmap.png)
-
 ## References
-
 * [https://cspinet.org/eating-healthy/why-good-nutrition-important](https://cspinet.org/eating-healthy/why-good-nutrition-important)
 * [https://www.tensorflow.org/api_docs/python/tf/keras/applications/InceptionV3](https://www.tensorflow.org/api_docs/python/tf/keras/applications/InceptionV3)
