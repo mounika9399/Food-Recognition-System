@@ -55,16 +55,11 @@
 * [Google Colab](https://colab.research.google.com/)
 
 ### Dataset
-
-
 Food Images Source: [The Food-101 Data Set](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)
-  
   * The data set consists of 101 food categories, with 1,01, 000 images.
   * 250 test images/per class and 750 training images/per class are provided.
   * All the images were rescaled to have a maximum side length of 512 pixels. 
-
 Nutrition Information Source: [Food Data Central API](https://fdc.nal.usda.gov/api-guide.html#bkmk-3)
-
   * U.S. Department of Agriculture, Agricultural Research Service. FoodData Central, 2019. fdc.nal.usda.gov. 
 
 ## Results
@@ -93,54 +88,7 @@ Nutrition Information Source: [Food Data Central API](https://fdc.nal.usda.gov/a
 
 ![Heatmap](.images/heatmap.png)
 
-<!-- CONTRIBUTING -->
-## Contributing  
-
-Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/amazing-feature`)
-3. Commit your Changes (`git commit -m 'feat: some amazing feature'`)
-4. Push to the Branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-## Contact
-[![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/maharsh-suryawala-05410312b/) 
-
-Maharsh Suryawala - [Portfolio](https://maharshsuryawala.github.io/maharshsuryawala/)
-
-Project Link: [https://github.com/MaharshSuryawala/Food-Image-Recognition](https://github.com/MaharshSuryawala/Food-Image-Recognition)
-
 ## References
 
 * [https://cspinet.org/eating-healthy/why-good-nutrition-important](https://cspinet.org/eating-healthy/why-good-nutrition-important)
 * [https://www.tensorflow.org/api_docs/python/tf/keras/applications/InceptionV3](https://www.tensorflow.org/api_docs/python/tf/keras/applications/InceptionV3)
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Img Shields](https://shields.io)
-* [Iconify](https://iconify.design/)
-* [MIT License](https://opensource.org/licenses/MIT)
-* [Unsplash](https://unsplash.com/)
-* [Badgen](https://badgen.net/)
-* [For The Badge](https://forthebadge.com/)
-
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/MaharshSuryawala)
-
-
-<!-- MARKDOWN LINKS -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MaharshSuryawala/Food-Image-Recognition?style=flat-square 
-[contributors-url]: https://github.com/MaharshSuryawala/Food-Image-Recognition/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/MaharshSuryawala/Food-Image-Recognition?style=flat-square?style=flat-square
-[license-url]: https://github.com/MaharshSuryawala/Food-Image-Recognition?style=flat-square/blob/master/LICENSE.txt
